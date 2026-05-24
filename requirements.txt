@@ -1,0 +1,6 @@
+streamlit
+opencv-python
+mysql-connector-python
+pandas
+numpy
+Pillow
